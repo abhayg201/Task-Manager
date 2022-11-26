@@ -1,6 +1,6 @@
 #Task Tracker App
 
-It includes the react ui as well as JSON-server for our mock backend.(https://github.com/facebook/create-react-app).
+It includes the react ui as well as JSON-server for our mock backend.
 
 ## Usage
 
